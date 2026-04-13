@@ -190,7 +190,7 @@ const Hero: React.FC<HeroProps> = ({
               animation: 'rainbow-move 8s linear infinite'
             }}
           >
-            Dream in <br /> light
+            KriaTech <br /> Dream Neon
           </h1>
 
           <div className="flex flex-col items-center mb-16 space-y-2 opacity-90">
