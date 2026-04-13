@@ -203,7 +203,7 @@ const PremiumPage: React.FC<PremiumPageProps> = ({
           </div>
           <div className="flex flex-col">
             <span className="font-orbitron font-black text-base md:text-lg tracking-tighter leading-none text-white uppercase group-hover:text-[#bfff00] transition-colors">Dream Neon</span>
-            <span className="text-[8px] md:text-[10px] font-bold text-gray-500 tracking-[0.3em] uppercase">Studio</span>
+            <span className="text-[8px] md:text-[10px] font-bold text-gray-500 tracking-[0.3em] uppercase">KriaTech</span>
           </div>
         </div>
 
