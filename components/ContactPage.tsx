@@ -212,7 +212,7 @@ const ContactPage: React.FC<ContactPageProps> = ({ onBack, onGoHome, onOpenPremi
                   <div className="p-4 bg-magenta-500/10 rounded-xl text-magenta-500 group-hover:bg-magenta-500/20 transition-colors"><Mail size={24} /></div>
                   <div>
                      <p className="text-[10px] font-black uppercase text-gray-500 tracking-widest mb-1">Email</p>
-                     <p className="text-sm font-bold tracking-widest lowercase">contact@dreamneon.com</p>
+                     <p className="text-sm font-bold tracking-widest lowercase">KriaTech@gmail.com</p>
                   </div>
                 </div>
               </div>
